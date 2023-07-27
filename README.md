@@ -40,7 +40,7 @@
 	<th>Pemrograman Web<br>09.50</th>
 	<th>Istirahat<br>09.30</th>
 	<th>Istirahat<br>09.30</th>
-	<th>Istirahatbr>09.30</th>
+	<th>Istirahat<br>09.30</th>
 	<th>Istirahat<br>09.30</th>
 </tr>
 <tr>
