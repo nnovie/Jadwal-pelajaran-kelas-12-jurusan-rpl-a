@@ -94,6 +94,17 @@
   </tr>
   <tr>
     <th>Bahasa Inggris<br>15.00</th>
+    <th>Pulang Sekolah<br>15.00</th>
+    <th>Pulang Sekolah<br>15.00</th>
+    <th>Pulang Sekolah<br>15.00</th>
+    <th>Pulang Sekolah<br>14.20</th>
+  </tr>
+  <tr>
+    <th>Pulang Sekolah<br>15.20</th>
+    <th>Pulang Sekolah<br>15.20</th>
+    <th>Pulang Sekolah<br>15.20</th>
+    <th>Pulang Sekolah<br>15.20</th>
+    <th>Pulang Sekolah<br>14.40</th>
   </tr>
 </html>
 </table>
